@@ -112,7 +112,7 @@ attachment:
 Visit the dataset landing page to accept the license agreement and obtain
 download URLs:
 
-**[https://www.meta.com/emerging-tech/eye-tracking/](https://www.meta.com/emerging-tech/eye-tracking/)**
+**[https://www.meta.com/emerging-tech/eye-tracking/rloct/](https://www.meta.com/emerging-tech/eye-tracking/rloct/)**
 
 After accepting the terms, you will receive a list of CDN URLs covering all
 files.
